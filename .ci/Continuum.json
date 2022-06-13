@@ -1,0 +1,7 @@
+https://chrome.google.com/webstore/detail/tokenpocket/mfgccjchihfkkindfppnaooecgfneiii?hl=en-us{
+  "type": "lib",
+  "stages": [
+    {"name": "test" },
+    {"name": "build" }
+  ]
+}
